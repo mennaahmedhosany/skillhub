@@ -15,7 +15,7 @@ class SettingsSeeder extends Seeder
     public function run()
     {
         Settings::create([
-          'email'=>'ahmad@gamil.com' ,
+          'email'=>'menna@gamil.com' ,
           'phone'=>'123',
           'twetter'=>'twetter',
           'instegram'=>'instegram',
